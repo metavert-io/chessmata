@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jonradoff-chessmata-badge.png)](https://mseep.ai/app/jonradoff-chessmata)
+
 # Chessmata
 
 **Version 1.0.0**
